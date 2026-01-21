@@ -2,6 +2,11 @@
   "name": "waterfilter-uae",
   "version": "1.0.0",
   "type": "module",
+  "description": "Aqua Care UAE - Premium RO Water Purifiers and Filtration Systems in Dubai, Sharjah, and Ajman.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aqua08432-debug/aqua-care-uae.git"
+  },
   "license": "MIT",
   "scripts": {
     "dev": "vite --host",
