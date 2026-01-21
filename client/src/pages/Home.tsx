@@ -187,7 +187,7 @@ export default function Home() {
               },
             ].map((product, index) => (
               <Card key={index} className="overflow-hidden hover:shadow-lg transition-shadow">
-                <div className="aspect-video bg-muted relative overflow-hidden" style={{ backgroundColor: '#ffffff' }}>
+                <div className="aspect-video bg-white relative overflow-hidden">
                   <img
                     src={product.image}
                     alt={`${product.title} - High-quality water filtration in UAE`}

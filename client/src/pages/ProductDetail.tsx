@@ -217,7 +217,6 @@ export default function ProductDetail() {
                 <div
                   key={relProduct.id}
                   className="card-premium animate-fade-in-up stagger-item"
-                  style={{ animationDelay: `${i * 0.1}s` }}
                 >
                   <div className="aspect-square bg-secondary rounded-lg mb-4 flex items-center justify-center overflow-hidden">
                     <img

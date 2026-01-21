@@ -255,7 +255,6 @@ export default function Blog() {
             <article
               key={post.id}
               className="card-premium animate-fade-in-up stagger-item overflow-hidden cursor-pointer"
-              style={{ animationDelay: `${i * 0.1}s` }}
               onClick={() => navigate(`/blog/${post.id}`)}
             >
               {/* Image */}
