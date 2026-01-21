@@ -30,12 +30,12 @@ export default function Home() {
                 </span>
               </div>
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight">
-                Pure, Safe Water for Every UAE Home & Business
+                Best Water Filters in UAE
               </h1>
               <p className="text-lg md:text-xl text-muted-foreground">
-                Leading water filtration solutions provider in Dubai, Sharjah, and Ajman.
-                Premium RO systems, water softeners, and complete purification solutions for
-                homes, offices, and industries.
+                Advanced filtration systems designed for UAE water conditions, ensuring clean and
+                healthy drinking water every day. Trusted water filter specialists delivering
+                quality products, fast service, and expert installation across the UAE.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Link href="/quote">
@@ -52,7 +52,7 @@ export default function Home() {
               </div>
               <div className="flex items-center gap-8 pt-4">
                 <div>
-                  <div className="text-3xl font-bold text-primary">15+</div>
+                  <div className="text-3xl font-bold text-primary">10+</div>
                   <div className="text-sm text-muted-foreground">Years Experience</div>
                 </div>
                 <div>
@@ -245,13 +245,13 @@ export default function Home() {
               },
               {
                 icon: Shield,
-                title: "15+ Years Experience",
+                title: "Over 10 Years of Experience",
                 description:
-                  "Serving UAE since 2008 with thousands of satisfied customers across all emirates",
+                  "Serving UAE with thousands of satisfied customers across all emirates",
               },
               {
                 icon: Wrench,
-                title: "Professional Installation",
+                title: "Trained and Certified Technician",
                 description:
                   "Expert technicians provide free installation and setup for all systems",
               },
@@ -263,9 +263,9 @@ export default function Home() {
               },
               {
                 icon: ThumbsUp,
-                title: "Annual Maintenance",
+                title: "Fast Work and Services",
                 description:
-                  "Comprehensive maintenance packages to keep your system running perfectly",
+                  "Quick response times and efficient service delivery across all UAE emirates",
               },
               {
                 icon: Store,
